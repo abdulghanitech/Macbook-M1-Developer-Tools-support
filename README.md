@@ -8,6 +8,6 @@ This list will give you an overview of which tools are working fine on the new M
 | Tool   |      Working      |  Relates News/Issue |
 |----------|:-------------:|:------:|
 | XCode |  ✔ | [Apple](https://www.apple.com/newsroom/2020/11/introducing-the-next-generation-of-mac/) |
-| Docker |  ❌ | [Github issue](https://github.com/docker/for-mac/issues/4733) |
+| Docker |  ✔ | [Github issue](https://github.com/docker/for-mac/issues/4733) |
 | HomeBrew |    ❌   |    [Github issue](https://github.com/Homebrew/brew/issues/7857) |
-| Electron | ❌ |    [Github issue](https://github.com/electron/electron/issues/24306) |
+| Electron | ✔ |    [Github issue](https://github.com/electron/electron/issues/24306) |
